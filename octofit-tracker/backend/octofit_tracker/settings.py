@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-a!x0u+q90s&sl5fv+da8pl$t1*dpa_jnig*j!yo1zmz70kaf#k
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'stunning-space-lamp-gx44jg446j3p4x7-8000.app.github.dev', 'localhost']
 
 
 # Application definition
